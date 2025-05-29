@@ -1,6 +1,7 @@
 # Pseudo Multi-source Domain Generalization: Bridging the Gap between Single and Multi-source Domain Generalization
 This is a pytorch implementation of the following paper [[arXiv]](https://arxiv.org/abs/???):  
 ![overview](./image/overview.png)
+
 This codebase is mainly based on [[DomainBed]](https://github.com/facebookresearch/DomainBed), with following modifications:
 Introduces a flexible framework for generating synthetic multi-domain datasets from a single source domain through style transformations and data augmentation techniques.
 
