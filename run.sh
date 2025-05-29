@@ -1,0 +1,1 @@
+sh scripts/train.sh $1 $2 $3 $4 local $5
