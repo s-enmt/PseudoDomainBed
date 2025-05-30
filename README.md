@@ -132,7 +132,7 @@ python visualize_augs.py --image_dir "./my_images" --output_dir "./my_visualizat
 # Citation
 
 ```
-@misc{enomoto2025pseudomultisourcedomaingeneralization,
+@misc{enomoto2025pmdg,
       title={Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization}, 
       author={Shohei Enomoto},
       year={2025},
