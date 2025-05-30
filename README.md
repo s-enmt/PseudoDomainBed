@@ -1,5 +1,5 @@
 # Pseudo Multi-source Domain Generalization: Bridging the Gap between Single and Multi-source Domain Generalization
-This is a pytorch implementation of the following paper [[arXiv]](https://arxiv.org/abs/???):  
+This is a pytorch implementation of the following paper [[arXiv]](https://arxiv.org/abs/2505.23173):  
 ![overview](./image/overview.png)
 
 This codebase is mainly based on [[DomainBed]](https://github.com/facebookresearch/DomainBed), with following modifications:
@@ -132,5 +132,13 @@ python visualize_augs.py --image_dir "./my_images" --output_dir "./my_visualizat
 # Citation
 
 ```
-
+@misc{enomoto2025pseudomultisourcedomaingeneralization,
+      title={Pseudo Multi-Source Domain Generalization: Bridging the Gap Between Single and Multi-Source Domain Generalization}, 
+      author={Shohei Enomoto},
+      year={2025},
+      eprint={2505.23173},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2505.23173}, 
+}
 ```
